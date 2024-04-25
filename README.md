@@ -1,4 +1,4 @@
-# Excel
+# Analysis of Online-Store Data Using Microsoft Excel
 Project with excel using a online-store data.
 ## Project Overview
 Creating a annual sales report dashboard of 2022 using excel to get an understanding about customers and grow more sales in 2023.
